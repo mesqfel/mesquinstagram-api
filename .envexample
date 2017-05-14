@@ -1,0 +1,6 @@
+S3_BUCKET=your_S3_bucket_name
+
+AWS_ACCESS_KEY_ID=your_aws_access_key
+AWS_SECRET_ACCESS_KEY=your_aws_secret_access_key
+
+MONGODB_URI=mongodb://localhost:27017/your_db_name
