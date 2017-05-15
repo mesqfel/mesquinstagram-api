@@ -33,10 +33,6 @@ app.listen(port, function(){
 	console.log('Server now listening on port '+port);
 });
 
-app.get('/', function(req, res){
-	res.send({msg: 'Hello World'});
-});
-
 mongodb.MongoClient.connect(process.env.MONGODB_URI, function(err, db) {
 
 	var posts = db.collection('posts');
