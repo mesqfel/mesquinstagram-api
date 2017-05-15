@@ -1,5 +1,5 @@
 # mesquinstagram-api
-Server side for an instagram clone made with nodejs<br>
+Server side for an instagram clone made with NodeJs<br>
 You can check it live here: <a href="https://mesquinstagram-client.herokuapp.com/" target="_blank">https://mesquinstagram-client.herokuapp.com/</a><br>
 Disclaimer: this is just the API. To run this app locally you will also need to clone the Client side here: https://github.com/mesqfel/mesquinstagram-client
 
