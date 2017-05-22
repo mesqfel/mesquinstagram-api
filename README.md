@@ -10,6 +10,7 @@ Disclaimer: this is just the API. To run this app locally you will also need to 
 3 - Install dependencies: $ npm install<br><br>
 4 - Rename the file ".envexample" to ".env"<br><br>
 5 - Place your own configuration values in the new renamed ".env" file<br><br>
-6 - On folder /mesquinstagram-api run: $ node server.js<br><br>
-7 - Your Instagram clone API will be served on http://localhost:3000<br><br>
-8 - If you have any trouble, email me: fe.mesquita88@gmail.com<br>
+6 - Start mongodb running: $ mongod<br><br>
+7 - On folder /mesquinstagram-api run: $ node server.js<br><br>
+8 - Your Instagram clone API will be served on http://localhost:3000<br><br>
+9 - If you have any trouble, email me: fe.mesquita88@gmail.com<br>
